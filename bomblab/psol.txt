@@ -3,5 +3,5 @@ The future can't just be made out of sanity.
 3 G 238
 31 AC
 516970
-5 1 4 2 6 3 
-hidden
+5 1 4 2 6 3 hidden
+ccaac
